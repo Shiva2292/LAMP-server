@@ -6,4 +6,4 @@ ee
 test build sucessfull..
 
 </html>	
-chmod -R 777 /var..
+chmod -R 777 /var..sosj
