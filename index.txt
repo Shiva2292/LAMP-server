@@ -5,4 +5,5 @@
 ee
 test build sucessfull..
 
-</html>e4es
+</html>	
+chmod -R 777 /var..
